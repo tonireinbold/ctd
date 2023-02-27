@@ -4,7 +4,7 @@ import socket
 import threading
 import time
 
-HOST = "localhost"
+HOST = "158.69.239.233"
 PORT = 10012
 
 username = input("Nome de usuário: ")
